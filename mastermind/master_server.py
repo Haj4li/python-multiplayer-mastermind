@@ -4,6 +4,10 @@ import os
 import termcolor
 import threading
 
+
+# Coded by Haj4li
+# https://github.com/Haj4li/python-multiplayer-mastermind/
+
 # لیست کد های رنگی
 colors = ["RED", "GREEN", "YELLOW", "BLUE", "PURPLE", "GRAY"]
 
