@@ -1,5 +1,10 @@
 import socket
 import os
+
+# Coded by Haj4li
+# https://github.com/Haj4li/python-multiplayer-mastermind/
+
+
 # مقدار دهی متغییر های اولیه
 HOST = '127.0.0.1' # آدرس ایپی برای اتصال به سرور
 PORT = 9500 # پورت مورد نیاز
